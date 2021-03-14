@@ -1,41 +1,51 @@
-Here's the list of sources I use to keep updated in engineering, technology and management topics
+> Stay Hungry. Stay Foolish
+
+
+# My top sources for engineering, technology and management
 
 ## Engineering
 
 ### Blogs
-[Github](https://github.blog)
-[Spotify](https://engineering.atspotify.com)
-[Uber](https://eng.uber.com)
-[LinkedIn](https://engineering.linkedin.com)
-[Pragmatic Engineer](https://blog.pragmaticengineer.com)
-[High Scalability](http://highscalability.com)
+- [Github](https://github.blog)
+- [Spotify](https://engineering.atspotify.com)
+- [Uber](https://eng.uber.com)
+- [LinkedIn](https://engineering.linkedin.com)
+- [Pragmatic Engineer](https://blog.pragmaticengineer.com)
+- [High Scalability](http://highscalability.com)
 
 ### Medium
-[Better Programming](https://betterprogramming.pub)
+- [Better Programming](https://betterprogramming.pub)
 
 ### Newsletters
-
-[Pointer.IO](https://www.pointer.io)
+- [Pointer.IO](https://www.pointer.io)
 
 ## Technololgy
-[HackerNews](https://hackernewsletter.com)
-[The Hack](https://thehack.com.br/subscribe)
 
+### Newsletters
+- [HackerNews](https://hackernewsletter.com)
+- [The Hack](https://thehack.com.br/subscribe)
 
 ## Management
 
 ### Blogs
-[Stay SaaSy](https://staysaasy.com)
-
+- [Stay SaaSy](https://staysaasy.com)
 
 ### Tools
-[Better 1on1](https://getlighthouse.com)
-[Better Feedbacks](https://matterapp.com)
+- [Better 1on1](https://getlighthouse.com)
+- [Better Feedbacks](https://matterapp.com)
 
 ### Medium
-[gchapiewski](https://medium.com/@gchapiewski)
+- [gchapiewski](https://medium.com/@gchapiewski)
 
+### Newsletters
+- [Dev To Manager](https://devtomanager.com)
+- [Software Lead Weekly](https://softwareleadweekly.com)
 
 ### Books
-The Five Dysfunctions of a Team - Patrick Lecioni
-Phoenix Project
+
+
+
+## Other lists
+- https://github.com/charlax/engineering-management/
+- https://github.com/charlax/professional-programming
+- https://github.com/marian-kamenistak/Software-engineering-management-lab
