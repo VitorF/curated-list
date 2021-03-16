@@ -40,6 +40,7 @@
 ### Newsletters
 - [Dev To Manager](https://devtomanager.com)
 - [Software Lead Weekly](https://softwareleadweekly.com)
+- [fellow](https://fellow.app/newsletter)
 
 ### Books
 
