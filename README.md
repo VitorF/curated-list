@@ -37,6 +37,13 @@
 ### Medium
 - [gchapiewski](https://medium.com/@gchapiewski)
 
+
+### Courses
+- [People Management Skills CIPD - Chartered Institute of Personnel and Development](https://www.futurelearn.com/courses/people-management-skills)
+
+### Reference
+- [Principles of Management](https://courses.lumenlearning.com/suny-principlesmanagement/)
+
 ### Newsletters
 - [Dev To Manager](https://devtomanager.com)
 - [Software Lead Weekly](https://softwareleadweekly.com)
