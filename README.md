@@ -50,6 +50,9 @@
 - [fellow](https://fellow.app/newsletter)
 - [LeadDev](https://leaddev.com)
 
+### Resources
+- [200 One-On-One Meeting Questions for Managers](https://fellow.app/blog/meetings/one-on-one-meeting-questions-for-managers)
+
 ### Books
 
 
